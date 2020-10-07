@@ -62,17 +62,15 @@ nav li {
     font-weight: 700;
 }
 
-
-
 img {
-    width: 50%;
-    height: auto;
-    object-fit: cover;
+    display: block;
+    margin: auto;
+
 }
 
 footer {
-    background-color: rgb(27, 27, 27);
-    color: rgb(248, 248, 248);
+    background-color: rgb(248, 201, 201);
+    color: rgb(255, 155, 155);
     padding: 1rem;
     text-align: center;
     margin-top: 1rem;
