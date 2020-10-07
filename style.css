@@ -19,7 +19,7 @@ header {
     background: whitesmoke;
     color: whitesmoke;
     padding: 2rem 0;
-    border-bottom: 3px solid var(--secondary-color);
+    border-bottom: 3px solid yellow;
     margin-bottom: 3rem;
     position: sticky;
     top: 0;
@@ -38,7 +38,7 @@ nav a {
 }
 
 nav a:hover {
-    color: var(--secondary-color);
+    color: yellow;
     transition: .5s ease-in-out;
 }
 
@@ -59,7 +59,15 @@ h2 {
 }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
     object-fit: cover;
+}
+
+footer {
+    background-color: grey;
+    color: whitesmoke;
+    padding: 2rem;
+    text-align: center;
+    margin-top: 1rem;
 }
