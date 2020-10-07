@@ -65,9 +65,9 @@ img {
 }
 
 footer {
-    background-color: grey;
-    color: whitesmoke;
-    padding: 2rem;
+    background-color: rgb(27, 27, 27);
+    color: rgb(248, 248, 248);
+    padding: 1rem;
     text-align: center;
     margin-top: 1rem;
 }
