@@ -4,10 +4,19 @@
     box-sizing: border-box;
 }
 
-html, body {
-    font-family: 'Lexend Peta', sans-serif;
-    background-color: whitesmoke;
-    font-size: 14px;
+body {
+    background-color: rgb(248, 201, 201);
+    display: block;
+    margin: 5px;
+}
+
+h1 {
+    font-family: 'Bungee Shade' , cursive;
+    color: rgb(255, 155, 155);
+    display: block;
+    font-size: 2em;
+    text-align: center;
+    margin: 4rem 0;
 }
 
 .container {
@@ -16,10 +25,10 @@ html, body {
 }
 
 header {
-    background: whitesmoke;
-    color: whitesmoke;
+    background: rgb(248, 201, 201);
+    color: rgb(248, 201, 201);
     padding: 2rem 0;
-    border-bottom: 3px solid orange;
+    border-bottom: 3px solid rgb(255, 155, 155);
     margin-bottom: 3rem;
     position: sticky;
     top: 0;
@@ -53,10 +62,7 @@ nav li {
     font-weight: 700;
 }
 
-h2 {
-    text-align: center;
-    margin: 4rem 0;
-}
+
 
 img {
     width: 50%;
